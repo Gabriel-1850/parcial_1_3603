@@ -1,0 +1,108 @@
+body{
+	width: 1000px; 
+    height: 914px; 
+    border: 3px solid #555;
+	border-top-color: red;
+	border-right-color: red;
+	border-bottom-color: red;
+	border-left-color: red;
+	
+}
+
+
+#contenedor	{
+	
+	width: 994px; 
+    height: 100px; 
+    border: 3px solid #555;
+	border-top-color: purple;
+	border-right-color: purple;
+	border-bottom-color: purple;
+	border-left-color: purple;
+	 
+	 
+}
+header {
+	height: 150px;
+}
+
+header h1{
+	font-size:50px;
+	text-align:center;
+	
+}
+#contenedor2	{
+	
+	width: 994px; 
+    height: 800px; 
+	border: 3px solid #555;
+	border-top-color: aqua;
+	border-right-color: aqua;
+	border-bottom-color: aqua;
+	border-left-color: aqua;
+		 
+}
+
+#lineaverde	{
+	
+	width: 300px; 
+    height: 790px; 
+	border: 3px solid #555;
+	border-top-color: lime;
+	border-right-color: lime;
+	border-bottom-color: lime;
+	border-left-color: lime;
+	float:left; 
+}
+
+
+aside h2{
+	font-size:30px;
+	text-align:center;
+}
+
+#lineazul	{
+	
+	width: 680px; 
+    height: 790px; 
+	border: 3px solid #555;
+	border-top-color: blue;
+	border-right-color: blue;
+	border-bottom-color: blue;
+	border-left-color: blue;
+	float:right;
+		 
+}	
+
+#lineanaranja	{
+	
+	width: 674px; 
+    height: 100px; 
+	border: 3px solid #555;
+	border-top-color: orange;
+	border-right-color: orange;
+	border-bottom-color: orange;
+	border-left-color: orange;
+	float:up;
+		 
+}	
+
+
+header h3{
+	font-size:20px;
+	text-align:center;
+	
+}
+
+#lineanorada	{
+	
+	width: 674px; 
+    height: 678px; 
+	border: 3px solid #555;
+	border-top-color: fuchsia;
+	border-right-color: fuchsia;
+	border-bottom-color: fuchsia;
+	border-left-color: fuchsia;
+	float:up;
+		 
+}	
